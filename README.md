@@ -7,6 +7,8 @@
 
 - 🐧 Linux
 
+- 📕 Ansible
+
 - 🐋 Docker
 
 - 🌐 Nginx
