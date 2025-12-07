@@ -7,10 +7,8 @@
 
 - 🐧 Linux
 
-- 📕 Ansible
-
 - 🐋 Docker
 
-- 🌐 Nginx
+- 🧪 IaC/Reproducibility
 
-- 📜 JavaScript
+- 📜 Scripting
