@@ -2,12 +2,12 @@
 
 <h3>I'm currently interested in:</h3>
 
-- 🌐 Web dev & design
+- 🌐 Web dev
 
-- 🐧 Linux server administration
+- 🐧 Linux admin
 
-- 🐋 Docker (dev & deploy)
+- 🐋 Docker
 
-- ❄️ IaC & reproducability via Nix
+- 🗺️ IaC & reproducability
 
 <h5>... and I might have a homelab addiction.</h5>
