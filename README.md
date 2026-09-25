@@ -2,9 +2,9 @@
 
 <h3>I'm currently interested in:</h3>
 
-- 🌐 Web dev
+- 🌐 Web development
 
-- 🐧 Linux admin
+- 🐧 Linux server administration
 
 - 🐋 Docker
 
